@@ -1,5 +1,5 @@
-### Nice to meet you. I'm Allen Deon. ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/degrasse-python/degrasse-python/blob/main/gokurun.gif))
-
+### Nice to meet you. I'm Allen Deon. ![](https://github.com/degrasse-python/degrasse-python/blob/main/gokurun.gif)
+![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif)
 <!--
 **degrasse-python/degrasse-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
