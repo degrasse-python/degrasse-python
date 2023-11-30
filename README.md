@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p>😄 Pronouns: he/him/his</p>
 
-![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif) I’m currently learning ... everything i need to become a better engineer.
+![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif) emsp I’m currently learning ... everything i need to become a better engineer.
 
 <p>:speech_balloon: Ask me about anything related to... my profile. I am happy to answer.</p>
 <p></p>
