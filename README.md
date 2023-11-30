@@ -25,14 +25,17 @@ Here are some ideas to get you started:
 <br />
 </p>
 
+
+![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif)
+
 <p>I am a ML Ops engineer with a passion for improving the experience of developers by utilizing cloud technologies at scale. I specialize in DevOps and Machine Learning with python and work in traditional and modern cloud systems.</p>
   <p>In my latest <a href="https://github.com/degrasse-python/spark-sql-srv">project</a>, I have successfully built a clean cut way to parallel process data at scale using Hadoop, PySpark, Tensorflow, and IaC(ansible & terraform). Here I show how easy it is to prototype a scalable ML Ops pipeline that updates dashboards in realtime and trains a model on a nightly schedule for data scientist to evaluate the models on a weekly basis.<a href="https://github.com/degrasse-python/TFMultiCloud"></a>.</a> 🥳</p>
 <br />
 
 
-![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokurun.gif) &emsp;&emsp; Pronouns: he/him/his
+😄 &emsp;&emsp; Pronouns: he/him/his
 
-![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif) &emsp;&emsp; I’m currently learning ... everything i need to become a better engineer.
+🌱 &emsp;&emsp; I’m currently learning ... everything i need to become a better engineer.
 
 🐉 &emsp;&emsp; Ask me about anything related to... my profile. I am happy to answer.
 
