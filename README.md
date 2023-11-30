@@ -29,10 +29,12 @@ Here are some ideas to get you started:
   <p>In my latest <a href="https://github.com/degrasse-python/spark-sql-srv">project</a>, I have successfully built a clean cut way to parallel process data at scale using Hadoop, PySpark, Tensorflow, and IaC(ansible & terraform). Here I so how easy it is to prototype a scalable ML Ops pipeline that updates dashboards in realtime and trains a model on a nightly schedule for data scientist to evaluate the models on a weekly basis.<a href="https://github.com/degrasse-python/TFMultiCloud"></a>.</a> 🥳</p>
 <br />
 
-<p>😄 Pronouns: he/him/his</p>
 
-![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif) &emsp;&emsp;I’m currently learning ... everything i need to become a better engineer.
-&emsp;&emsp; Ask me about anything related to... my profile. I am happy to answer.
+![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokurun.gif) &emsp;&emsp; Pronouns: he/him/his
+
+![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif) &emsp;&emsp; I’m currently learning ... everything i need to become a better engineer.
+
+🐉 &emsp;&emsp; Ask me about anything related to... my profile. I am happy to answer.
 
 <p></p>
 
