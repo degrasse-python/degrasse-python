@@ -1,5 +1,4 @@
 ![](https://github.com/degrasse-python/degrasse-python/blob/main/gokurun.gif)
-![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif)
 <!--
 **degrasse-python/degrasse-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,16 +19,19 @@ Here are some ideas to get you started:
   <h1 align="center"><b>Nice to meet you. I'm Allen Deon.</b> </h1>
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/deon-saunders"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://linkedin.com/in/deon-saunders"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;
 <a href="https://sitecomingsoon.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
  <a href="mailto:adsaunde@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;
 <br />
 <br />
 </p>
-                                            <p>😄 Pronouns: he/him/his</p>
+
 <p>I am a ML Ops engineer with a passion for improving the experience of developers by utilizing cloud technologies at scale. I specialize in DevOps and Machine Learning with python and work in traditional and modern cloud systems.</p>
   <p>In my latest <a href="https://github.com/degrasse-python/spark-sql-srv">project</a>, I have successfully built a clean cut way to parallel process data at scale using Hadoop, PySpark, Tensorflow, and IaC(ansible & terraform). Here I so how easy it is to prototype a scalable ML Ops pipeline that updates dashboards in realtime and trains a model on a nightly schedule for data scientist to evaluate the models on a weekly basis.<a href="https://github.com/degrasse-python/TFMultiCloud"></a>.</a> 🥳</p>
 <br />
+
+<p>😄 Pronouns: he/him/his</p>
+![](https://github.com/degrasse-python/degrasse-python/blob/939ba58ee60101f14b367c0b69bb0eadefcb1677/gokurun.gif)
 <p>:eyes: I’m currently learning ... everything i need to become a better engineer.</p>
 <p>:speech_balloon: Ask me about anything related to... my profile. I am happy to answer.</p>
 <p></p>
