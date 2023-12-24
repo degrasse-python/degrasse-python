@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <h1 align="center"><b>Nice to meet you. I'm Allen Deon.</b> </h1>
+  <h1 align="center"><b>Nice to meet you, I'm Allen Deon.</b> </h1>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/deon-saunders"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;
