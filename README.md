@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif)
 
-<p>I am a Solutions Engineer at Kubiya.ai with a passion for improving the experience of developers by utilizing DevOps AI agents at scale. I specialize in DevOps and Machine Learning with python and work in traditional and modern cloud systems.</p>
+<p>I am a Solutions Engineer with a passion for improving the experience of developers by utilizing DevOps AI agents at scale. I specialize in DevOps and Machine Learning with python and work in traditional and modern cloud systems.</p>
   <p>In my latest <a href="https://github.com/degrasse-python/spark-sql-srv">project</a>, I have successfully built a clean cut way to parallel process data at scale using Hadoop, PySpark, Tensorflow, and IaC(ansible & terraform). Here I have built a scaling ML API using Python's FastAPI and Celery<a href="https://github.com/degrasse-python/ML-FastAPI-Redis">(link).</a> 🥳</p>
 <br />
 
